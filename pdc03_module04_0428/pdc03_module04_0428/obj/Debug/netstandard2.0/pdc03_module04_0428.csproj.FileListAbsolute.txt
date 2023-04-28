@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\bin\Debug\netstandard2.0\pdc03_module04_0428.deps.json
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\bin\Debug\netstandard2.0\pdc03_module04_0428.dll
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\bin\Debug\netstandard2.0\pdc03_module04_0428.pdb
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\pdc03_module04_0428.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\pdc03_module04_0428.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\activity01.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\pdc03_module04_0428.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\pdc03_module04_0428.AssemblyInfo.cs
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\pdc03_module04_0428.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\pdc03_module04_0428.dll
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\refint\pdc03_module04_0428.dll
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\pdc03_module04_0428.pdb
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\ref\pdc03_module04_0428.dll
+C:\Users\User\source\repos\pdc03_module04_0428\pdc03_module04_0428\pdc03_module04_0428\obj\Debug\netstandard2.0\activity02.xaml.g.cs
