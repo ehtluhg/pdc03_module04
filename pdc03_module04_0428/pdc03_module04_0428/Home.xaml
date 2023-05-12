@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="pdc03_module04_0428.Home">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+            <Button Text="Activity 01: ListView" Clicked="activity01"></Button>
+            <Button Text="Activity 02: ListView with Binding Context" Clicked="activity02"></Button>
+            <Button Text="Activity 03: Navigation Methods" Clicked="activity03"></Button>
+            <Button Text="Activity 04: Carousel Page" Clicked="activity04"></Button>
+            <Button Text="Activity 05: Binding Context" Clicked="activity05"></Button>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

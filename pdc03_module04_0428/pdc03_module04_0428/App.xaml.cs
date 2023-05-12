@@ -10,7 +10,7 @@ namespace pdc03_module04_0428
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MainPage());
+            MainPage = new NavigationPage(new Home());
         }
 
         protected override void OnStart()

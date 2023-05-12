@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
 using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
 
 namespace pdc03_module04_0428
 {
-    public partial class MainPage : ContentPage
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class Home : ContentPage
     {
-        public MainPage()
+        public Home()
         {
             InitializeComponent();
         }
@@ -28,6 +30,16 @@ namespace pdc03_module04_0428
         private async void activity03(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new activity03());
+        }
+
+        private async void activity04(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new activity04());
+        }
+
+        private async void activity05(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new activity05());
         }
     }
 }
